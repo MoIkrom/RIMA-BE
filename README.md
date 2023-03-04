@@ -81,7 +81,7 @@ CLOUDINARY_SECRET = ''
 ```sh
 $ npm run dev
 ```
-
+<!-- 
 ## 𓆙 Route
 
 | Endpoint          |            Method             | Info         | Remark                                                   |
@@ -92,7 +92,7 @@ $ npm run dev
 | /api/product      | `POST` `GET` `PATCH` `DELETE` | Product      | Create, Get, Get-Id, Get-Seller, Edit, Delete            |
 | /api/promo        | `GET` `POST` `PATCH` `DELETE` | Promo        | Get, Get-id, Edit, Delete                                |
 | /api/favorite     |     `GET` `POST` `DELETE`     | Favorite     | Add, GetById, Remove                                     |
-| /api/Reviews      |     `GET` `POST` `DELETE`     | Reviews      | Create, Get, Delete                                      |
+| /api/Reviews      |     `GET` `POST` `DELETE`     | Reviews      | Create, Get, Delete                                      | -->
 
 ## 𓆙 Documentation Postman
 
