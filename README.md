@@ -84,15 +84,15 @@ $ npm run dev
 
 ## 𓆙 Route
 
-| Endpoint                     |      Method      | Info         | Remark                                |
-| ---------------------------- | :--------------: | :----------- | :------------------------------------ |
-| /api/auth                    | `DELETE` `POST` `PATCH`  | Auth         | Login, Logout, Forgot,Register                       |
-| /api/profile                   |      `GET` `PATCH`       | Profile         | Get, Edit, Change Password                        |                |
-| /api/transactions            |      `GET` `POST` `PATCH`       | Transactions | Create, Get-Cust, Get-Seller, Get-Status, Update Payment |          |
-| /api/product                |   `POST` `GET` `PATCH` `DELETE`   | Product     | Create, Get, Get-Id, Get-Seller, Edit, Delete             |
-| /api/promo                   |      `GET` `POST` `PATCH` `DELETE`       | Promo        | Get, Get-id, Edit, Delete|
-| /api/favorite|`GET` `POST` `DELETE`| Favorite|Add, GetById, Remove|
-| /api/Reviews|`GET` `POST` `DELETE`| Reviews|Create, Get, Delete|
+| Endpoint          |            Method             | Info         | Remark                                                   |
+| ----------------- | :---------------------------: | :----------- | :------------------------------------------------------- | --- |
+| /api/auth         |    `DELETE` `POST` `PATCH`    | Auth         | Login, Logout, Forgot,Register                           |
+| /api/profile      |         `GET` `PATCH`         | Profile      | Get, Edit, Change Password                               |     |
+| /api/transactions |     `GET` `POST` `PATCH`      | Transactions | Create, Get-Cust, Get-Seller, Get-Status, Update Payment |     |
+| /api/product      | `POST` `GET` `PATCH` `DELETE` | Product      | Create, Get, Get-Id, Get-Seller, Edit, Delete            |
+| /api/promo        | `GET` `POST` `PATCH` `DELETE` | Promo        | Get, Get-id, Edit, Delete                                |
+| /api/favorite     |     `GET` `POST` `DELETE`     | Favorite     | Add, GetById, Remove                                     |
+| /api/Reviews      |     `GET` `POST` `DELETE`     | Reviews      | Create, Get, Delete                                      |
 
 ## 𓆙 Documentation Postman
 
@@ -101,7 +101,7 @@ Click here [POSTMAN](https://documenter.getpostman.com/view/23707233/2s8YmNP2aL)
 <BR>
 <BR>
 
-## 𓆙 Related-Project
+<!-- ## 𓆙 Related-Project
 - [FRONT-END](https://github.com/rzkiyprtm/rima-project)
 - [BACK-END](https://github.com/salzteam/RIMA-BE)
 
@@ -117,6 +117,6 @@ Click here [POSTMAN](https://documenter.getpostman.com/view/23707233/2s8YmNP2aL)
         </td>
     </tr>
   </table>
-</center>
+</center> -->
 
 <h1 align="center"> THANK FOR YOUR ATTENTION </h1>
